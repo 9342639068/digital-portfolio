@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>G.Vaishnavi | Portfolio</title>
+<title>M.Monisha | Portfolio</title>
 <style>
 body {
 font-family: Arial, sans-serif;
@@ -52,13 +52,13 @@ margin-top: 20px;
 </head>
 <body>
 <header>
-<h1>G.Vaishnavi</h1>
+<h1>M.Monisha</h1>
 <p>College Student</p>
 </header>
 <div class="container">
 <div class="content">
 <h2>About Me</h2>
-<p>I am G.Vaishnavi, a passionate college student eager to learn and explore web designing and development.</p>
+<p>I am M.Monisha, a passionate college student eager to learn and explore web designing and development.</p>
 </div>
 <div class="content">
 <h2>Skills</h2>
@@ -78,15 +78,15 @@ margin-top: 20px;
 </div>
 <div class="content">
 <h2>Education</h2>
-<p>I completed my schooling at Government Girls Higher Secondary School. Currently, I am pursuing my college studies at Nandha Arts and Science College, where I am honing my skills in web design and development.</p>
+<p>I completed my schooling at Shri maruthi higher secondary school . Currently, I am pursuing my college studies at Nandha Arts and Science College, where I am honing my skills in web design and development.</p>
 </div>
 <div class="content">
 <h2>Contact</h2>
-<p>Email: <a href="mailto:vaishnavigunasekar2005@gmail.com">vaishnavigunasekar2005@gmail.com</a></p>
+<p>Email: <a href="mailto monikavi685@gmail.com"monikavi685@gmail.com</a></p>
 </div>
 </div>
 <div class="footer">
-<p>&copy; 2025 G.Vaishnavi | All Rights Reserved</p>
+<p>&copy; 2025 M.Monisha | All Rights Reserved</p>
 </div>
 </body>
 </html>
